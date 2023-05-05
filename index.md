@@ -79,7 +79,8 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-
+<p id="registration">
+  <strong>Registration:</strong><a href="https://forms.office.com/r/aCQmzbezRz">Please register here: https://forms.office.com/r/aCQmzbezRz</a>
 
 <h2 id="general">General Information</h2>
 
